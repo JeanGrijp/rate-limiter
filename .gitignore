@@ -24,6 +24,12 @@ profile.cov
 go.work
 go.work.sum
 
+# Build outputs
+bin/
+dist/
+.gocache/
+.gomodcache/
+
 # env file
 .env
 
